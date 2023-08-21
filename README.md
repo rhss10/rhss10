@@ -2,7 +2,7 @@
 
 **1. Interests**: Automatic speech recognition, non-native speech processing, and speech processing/AI in general
 
-**2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux, C, Java
+**2. Skills**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, C, Java, Linux
 
 **3. Education**
    - B.A. in Linguistics / B.E. in Computer Science and Engineering at Seoul National University (2016-2021)
@@ -19,7 +19,7 @@
 **6. Projects**
    - Japanese ASR (National Information Society Agency (NIA) 2022-2023)
    - L2 Japanese phone recognition of Korean learners (National Information Society Agency (NIA) 2022-2023)
-   - L2 Korean pronunciation assessment of non-native learners of multinational backbrounds (National Information Society Agency (NIA) 2022-2023)
+   - L2 Korean pronunciation assessment of non-native learners of multinational backgrounds (National Information Society Agency (NIA) 2022-2023)
 
 <!--
 **rhss10/rhss10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
