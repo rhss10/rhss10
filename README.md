@@ -1,6 +1,6 @@
 ### Thanks for visiting my GitHub page! 👋
 
-**1. Interests**: Automatic speech processing, non-native speech processing, and speech processing/AI in general
+**1. Interests**: Automatic speech recognition, non-native speech processing, and speech processing/AI in general
 
 **2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux, C, Java
 
