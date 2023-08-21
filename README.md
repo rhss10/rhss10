@@ -1,8 +1,8 @@
 ### Thanks for visiting my GitHub page! 👋
 
-**1. Interests**: Automatic speech processing, Non-native speech processing, and speech processing/AI in general
+**1. Interests**: Automatic speech processing, non-native speech processing, and speech processing/AI in general
 
-**2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux in general
+**2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux, C, Java
 
 **3. Education**:
     - B.A. in Linguistics / B.E. in Computer Engineering at Seoul National University (2016-2021)
