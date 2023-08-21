@@ -4,13 +4,13 @@
 
 **2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux, C, Java
 
-**3. Education**:
-    - B.A. in Linguistics / B.E. in Computer Engineering at Seoul National University (2016-2021)
-    - M.A. in Linguistics at Seoul National University (2021-2023)
+**3. Education**
+   - B.A. in Linguistics / B.E. in Computer Engineering at Seoul National University (2016-2021)
+   - M.A. in Linguistics at Seoul National University (2021-2023)
     
 **4. Experiences**
-    - Exchange student at the University of Geneva (Spring of 2019)
-    - Intern at Speech Synthesis Team, Speech AI Lab, AI Center, NCSOFT (20.07-20.08, 20.11-21.02)
+   - Exchange student at the University of Geneva (Spring of 2019)
+   - Intern at Speech Synthesis Team, Speech AI Lab, AI Center, NCSOFT (20.07-20.08, 20.11-21.02)
 
 **5. Publications**
    - Yeo, E. J.\*, _**Ryu, H.**_\*, Lee, J., Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. _Proc. ICPhS 2023_. (https://arxiv.org/abs/2306.10821)
