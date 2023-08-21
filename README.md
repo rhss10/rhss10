@@ -5,7 +5,7 @@
 **2. Skils**: Python, PyTorch, Transformers, Fairseq, Kaldi, Docker, Linux, C, Java
 
 **3. Education**
-   - B.A. in Linguistics / B.E. in Computer Engineering at Seoul National University (2016-2021)
+   - B.A. in Linguistics / B.E. in Computer Science and Engineering at Seoul National University (2016-2021)
    - M.A. in Linguistics at Seoul National University (2021-2023)
     
 **4. Experiences**
