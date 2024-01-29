@@ -11,7 +11,7 @@
 **4. Experiences**
    - Exchange student at the University of Geneva (Spring of 2019)
    - Intern at Speech Synthesis Team, Speech AI Lab, AI Center, NCSOFT (20.07-20.08, 20.11-21.02)
-   - Associate, AI Unit, Digital Innovation Division, Shinhan Bank (23.08 ~)
+   - Associate at AI Unit, Digital Innovation Division, Shinhan Bank (23.08 ~)
 
 **5. Publications**
    - Yeo, E. J.\*, **Ryu, H.**, Lee, J., Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. _Proc. ICPhS 2023_. (https://arxiv.org/abs/2306.10821)
