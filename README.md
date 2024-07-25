@@ -14,7 +14,7 @@
    - Associate at AI Unit, Digital Innovation Division, Shinhan Bank (23.08 ~)
 
 **5. Publications**
-   - Yeo, E. J.\*, **Ryu, H.**, Lee, J., Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. _Proc. ICPhS 2023_. (https://arxiv.org/abs/2306.10821)
+   - Yeo, E. J.\*, **Ryu, H.\***, Lee, J., Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. _Proc. ICPhS 2023_. (https://arxiv.org/abs/2306.10821)
    - **Ryu, H.**, Kim, S., & Chung, M. (2023). A Joint Model for Pronunciation Assessment and Mispronunciation Detection and Diagnosis with Multi-task Learning. _Proc. Interspeech 2023._ (https://www.isca-speech.org/archive/pdfs/interspeech_2023/ryu23_interspeech.pdf)
 
 **6. Projects**
